@@ -4,3 +4,4 @@ Colour Schemes are not included, but the list of these I created will be down he
 ## Colour Schemes Created by Rosho128
 - Invert Standard
 - Rainbow FUN
+- Sunny day
