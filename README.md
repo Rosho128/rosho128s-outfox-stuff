@@ -5,3 +5,5 @@ Colour Schemes are not included, but the list of these I created will be down he
 - Invert Standard
 - Rainbow FUN
 - Sunny day
+- The Blood
+- Cool Blues
