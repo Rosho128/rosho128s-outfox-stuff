@@ -6,7 +6,7 @@ Colour Schemes are not included, but the list of these I created will be down he
 - Rainbow FUN (Added as of 4.9.9)
 - Sunny day (Added as of 4.9.9)
 - The Blood (Added as of 4.9.9)
-- Cool Blues
+- Cool Blues (Added as of 4.9.9)
 ### Plan Sheet
 - Scheme styled like Windows xp windows "Experience Nostalgia"
 - Scheme with Randomized Colours "Ridiculous"
